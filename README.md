@@ -2,9 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By _**Onur Kaymak**_
-
-[Onur Kaymak Portfolio](https://onurkaymak.com)
+#### By _**Ian Bravo**_ & _**Onur Kaymak**_
 
 ## Technologies Used
 
