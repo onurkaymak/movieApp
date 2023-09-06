@@ -1,10 +1,10 @@
-import { fetcher } from "./js/business";
+import { fetcher } from "./js/fetcher";
 
 const formSubmitHandler = () => {
     event.preventDefault();
     const input = document.getElementById("input");
     fetcher(input.value);
-    input.value = "";
+    input.value = null;
 };
 
 window.addEventListener("load", function () {
