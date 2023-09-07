@@ -9,7 +9,7 @@ export default class Movie {
                 if (this.status === 200) {
                     resolve(response);
                 } else {
-                    reject(response);
+                    reject([response, this]);
                 }
             });
             request.open("GET", url, true);
