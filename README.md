@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By _**Onur Kaymak**_
+#### By _**Onur Kaymak**_ & _**Ian Bravo**_
 
 [Onur Kaymak Portfolio](https://onurkaymak.com)
 
